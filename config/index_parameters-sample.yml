@@ -1,6 +1,6 @@
-Serial number: InternetGatewayDevice.DeviceInfo.SerialNumber
+Mikrotik Identity: Device.DeviceInfo.X_MIKROTIK_SystemIdentity
 Product class: InternetGatewayDevice.DeviceInfo.ProductClass
-Software version: InternetGatewayDevice.DeviceInfo.SoftwareVersion
-MAC: InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANIPConnection.1.MACAddress
-IP: InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANIPConnection.1.ExternalIPAddress
+Software version: Device.DeviceInfo.SoftwareVersion
+MAC: Device.Ethernet.Interface.1.MACAddress
+IP: Device.IP.Interface.1.IPv4Address.1.IPAddress
 WLAN SSID: InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.SSID
